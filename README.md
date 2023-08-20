@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
- 🎓 Universitária cursando 4° período, Developer Front-End, goal:DEV full stack || development engineer software
+ 🎓 Goal: Dev full stack || development engineer software
 
 🌱📌Atualmente, estou focado em projetos mobile <--com React e MySQL-->.<br>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - Instituto Federal de Pernambuco (IFPE)
   
-- Certificações da Cisco (em andamento)
+- Certificação da Cisco (em andamento)
 
 - Formação Node e React - Extensão Tecnológica IFPE 2022
 
